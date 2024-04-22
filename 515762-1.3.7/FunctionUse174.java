@@ -1,0 +1,7 @@
+import org.codehaus.jettison.badgerfish.BadgerFishXMLStreamWriter;
+public class FunctionUse174 {
+public void funcUse() {
+BadgerFishXMLStreamWriter badgerfishxmlstreamwriter = new BadgerFishXMLStreamWriter();
+badgerfishxmlstreamwriter.writeCharacters(null);
+}
+}
